@@ -85,8 +85,8 @@ Good luck!
 
 1. Clone the repository
    ```
-   git clone https://github.com/suhailtajshaik/user-department-dashboard.git
-   cd user-department-dashboard
+   git clone https://github.com/suhailtajshaik/user-department-dashboard-challenge.git
+   cd user-department-dashboard-challenge
    ```
 
 2. Install dependencies
@@ -111,7 +111,7 @@ Good luck!
 ## Project Structure
 
 ```
-user-department-dashboard/
+user-department-dashboard-challenge/
 ├── public/
 ├── src/
 │ ├── components/
